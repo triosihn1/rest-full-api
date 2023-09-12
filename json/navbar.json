@@ -1,0 +1,37 @@
+[{
+	"title" : "Dasboard",
+	"icon" : "nav-icon fas fa-tachometer-alt",
+	"href" : "/"
+},{
+	"title" :"Dokumentasi",
+	"icon" : "nav-icon fas fa-file",
+	"href" : "dokumentasi"
+},{
+	"title" : "Blog",
+	"icon" : "nav-icon fas fa-book",
+	"href" : "blog"
+},{
+	"key" : "Online Tools"
+},{
+	"title" : "Tiktok",
+	"icon" : "nav-icon fa-brands fa-tiktok",
+	"href" : "tiktok"
+},{
+	"title" : "Instagram",
+	"icon" : "nav-icon fa-brands fa-instagram",
+	"href" : "instagram"
+},{
+	"title" : "You Tube",
+	"icon" : "nav-icon fa-brands fa-youtube",
+	"href" : "youtube"
+},{
+	"key" : "More"
+},{
+	"title" : "Contact",
+	"icon" : "nav-icon fa-solid fa-message-smile",
+	"href" : "contact"
+},{
+	"title" : "About",
+	"icon" : "nav-icon fas fa-file",
+	"href" : "about"
+}]
