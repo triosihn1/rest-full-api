@@ -7,7 +7,9 @@
     {
         "title": "Dokumentasi",
         "icon": "nav-icon fas fa-file",
-        "href": "dokumentasi"
+        "href": "dokumentasi",
+        "badge": "New",
+        "class": "badge-danger"
     },
     {
         "title": "Blog",
