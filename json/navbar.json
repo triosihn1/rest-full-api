@@ -16,7 +16,6 @@
         "title": "Tiktok",
         "icon": "nav-icon fa-brands fa-tiktok",
         "href": "tiktok"
-        
     },
     {
         "title": "Instagram",
@@ -36,14 +35,17 @@
         "icon": "nav-icon fas fa-file",
         "href": "dokumentasi",
         "badge": "New",
-        "class": "badge-danger"
-        "drop" : [{
-        "title" : "Tiktok",
-        "url" : "/html/tiktok-download-v1.html"
-        },
-        { "title" : "Instagram",
-        "url" : "/html/Instagram-download-v1.html"
-        }]
+        "class": "badge-danger",
+        "drop": [
+            {
+                "title": "Tiktok",
+                "url": "/html/tiktok-download-v1.html"
+            },
+            {
+                "title": "Instagram",
+                "url": "/html/Instagram-download-v1.html"
+            }
+        ]
     },
     {
         "title": "Contact",
