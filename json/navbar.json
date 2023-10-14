@@ -34,8 +34,6 @@
         "title": "Dokumentasi Api",
         "icon": "nav-icon fas fa-file",
         "href": "dokumentasi",
-        "badge": "New",
-        "class": "badge-danger",
         "drop": [
             {
                 "title": "Tiktok",
