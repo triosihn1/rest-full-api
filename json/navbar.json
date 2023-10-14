@@ -2,12 +2,12 @@
     {
         "title": "Dasboard",
         "icon": "nav-icon fas fa-tachometer-alt",
-        "href": "/"
+        "href": "/html/home.html"
     },
     {
         "title": "Blog",
         "icon": "nav-icon fas fa-book",
-        "href": "blog"
+        "href": "/html/blog.html"
     },
     {
         "key": "Online Tools"
@@ -15,17 +15,17 @@
     {
         "title": "Tiktok",
         "icon": "nav-icon fa-brands fa-tiktok",
-        "href": "tiktok"
+        "href": "/html/tiktok.html"
     },
     {
         "title": "Instagram",
         "icon": "nav-icon fa-brands fa-instagram",
-        "href": "instagram"
+        "href": "/html/instagram.html"
     },
     {
         "title": "You Tube",
         "icon": "nav-icon fa-brands fa-youtube",
-        "href": "youtube"
+        "href": "/html/youtube.html"
     },
     {
         "key": "More"
@@ -53,6 +53,6 @@
     {
         "title": "About",
         "icon": "nav-icon fas fa-file",
-        "href": "about"
+        "href": "/html/about.html"
     }
 ]
