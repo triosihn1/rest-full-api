@@ -33,7 +33,7 @@
     {
         "title": "Dokumentasi Api",
         "icon": "nav-icon fas fa-file",
-        "href": "dokumentasi",
+        "href": "javascript:void()",
         "drop": [
             {
                 "title": "Download",
