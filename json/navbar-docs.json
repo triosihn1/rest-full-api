@@ -14,7 +14,7 @@
     },
     {
         "title": "Download",
-        "icon": "nav-icon fa-brands fa-tiktok",
+        "icon": "nav-icon fa-duotone fa-download fa-bounce",
         "drop" : [
         { 
 			"title": "TikTok",
