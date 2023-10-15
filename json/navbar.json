@@ -36,12 +36,12 @@
         "href": "dokumentasi",
         "drop": [
             {
-                "title": "Tiktok",
-                "url": "/html/tiktok-download-v1.html"
+                "title": "Download",
+                "url": "/html/download.html"
             },
             {
-                "title": "Instagram",
-                "url": "/html/Instagram-download-v1.html"
+                "title": "Stalking",
+                "url": "/html/stalking.html"
             }
         ]
     },
