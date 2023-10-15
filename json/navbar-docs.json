@@ -19,12 +19,12 @@
         { 
 			"title": "TikTok",
 			"icon": "nav-icon fa-brands fa-tiktok",
-        	"href" : "/api/tiktok.html"
+        	"href" : "/api/download/tiktok.html"
         },
         { 
 			"title": "Instagram",
 			"icon": "nav-icon fa-brands fa-instagram",
-        	"href" : "/api/instagram.html"
+        	"href" : "/api/download/instagram.html"
         }
         ]
     }
