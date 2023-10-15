@@ -15,17 +15,6 @@
     {
         "title": "Download",
         "icon": "nav-icon fa-duotone fa-download fa-bounce",
-        "drop" : [
-        { 
-			"title": "TikTok",
-			"icon": "nav-icon fa-brands fa-tiktok",
-        	"href" : "/api/download/tiktok.html"
-        },
-        { 
-			"title": "Instagram",
-			"icon": "nav-icon fa-brands fa-instagram",
-        	"href" : "/api/download/instagram.html"
-        }
-        ]
+        "href": "/api/download.html"
     }
 ]
